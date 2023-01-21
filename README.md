@@ -9,13 +9,13 @@ Hi there, I'm Richi 👋
 
 .📖 Studied Frontend Development at Hyper Island
 
-.From Australia 🦘 Living in Sweden 🥶
+.🌏 From Australia 🦘 Living in Sweden 🥶
 
 .Currently exploring Typescript 🦾
 
 .I am currently on the lookout for a junior frontend developer role to kick-start my frontend career in correlation with my graduation early 2023
 
-.Get in touch with me! richardgrahamkennedy@gmail.com
+.✉️ Get in touch with me! richardgrahamkennedy@gmail.com
 <!--
 **RichiKennedy/RichiKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
