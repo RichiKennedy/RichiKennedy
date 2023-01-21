@@ -1,3 +1,6 @@
+
+
+
 Hi there, I'm Richi 👋
 
 ✨An aspiring Frontend developer✨
