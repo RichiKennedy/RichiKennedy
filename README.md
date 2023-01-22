@@ -13,6 +13,8 @@
 
 .Currently exploring Typescript 🦾
 
+.My portfolio 👉 https://richardgkennedy.netlify.app/ 
+
 .✉️ Get in touch with me! richardgrahamkennedy@gmail.com
 <!--
 **RichiKennedy/RichiKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
