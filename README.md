@@ -1,19 +1,17 @@
 
 
 
-Hi there, I'm Richi 👋
+                                                  Hi there, I'm Richi 👋
 
-✨An aspiring Frontend developer✨
+                                           ✨An aspiring Frontend developer✨
 
-.💻 Currently a Frontend developer intern at Mobiento / Deloitte Digital
+.💻 Frontend developer intern at Mobiento / Deloitte Digital
 
 .📖 Studied Frontend Development at Hyper Island
 
 .🌏 From Australia 🦘 Living in Sweden 🥶
 
 .Currently exploring Typescript 🦾
-
-.I am currently on the lookout for a junior frontend developer role to kick-start my frontend career in correlation with my graduation early 2023
 
 .✉️ Get in touch with me! richardgrahamkennedy@gmail.com
 <!--
