@@ -3,15 +3,19 @@
 
                                                   Hi there, I'm Richi 👋
 
-                                           ✨An aspiring Frontend developer✨
+                                              ✨Aspiring Frontend developer✨
 
 .💻 Frontend developer intern at Mobiento / Deloitte Digital
 
-.📖 Studied Frontend Development at Hyper Island
+.📖 Frontend Development student at Hyper Island
 
-.🌏 From Australia 🦘 Living in Sweden 🥶
+.🌏 From Australia 🦘 Living in Sweden 🇸🇪
+
+.Currently building an Unsplash clone 
 
 .Currently exploring Typescript 🦾
+
+.👀 On the look-out for a junior frontend developer position 
 
 .My portfolio 👉 https://richardgkennedy.netlify.app/ 
 
