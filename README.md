@@ -11,9 +11,9 @@
 
 .🌏 From Australia 🦘 Living in Sweden 🇸🇪
 
-.Currently building an Unsplash clone 
+.👷‍♂️ Currently building an Unsplash clone 
 
-.Currently exploring Typescript 🦾
+.🧭 Exploring Typescript 🦾
 
 .👀 On the look-out for a junior frontend developer position 
 
