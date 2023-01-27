@@ -1,7 +1,7 @@
 
 
 
-                                                  Hi there, I'm Richi 👋
+                                                     Hi, I'm Richi 👋
 
                                               ✨Aspiring Frontend developer✨
 
