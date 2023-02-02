@@ -3,7 +3,7 @@
 
                                                      Hi, I'm Richi 👋
 
-                                              ✨Aspiring Frontend developer✨
+                                                  ✨Frontend developer✨
 
 .💻 Frontend developer intern at Mobiento / Deloitte Digital
 
