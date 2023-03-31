@@ -7,7 +7,7 @@
 
 .💻 Frontend developer intern at Mobiento / Deloitte Digital
 
-.📖 Frontend Development student at Hyper Island
+.📖 Frontend Development student from Hyper Island
 
 .🌏 From Australia 🦘 Living in Sweden 🇸🇪
 
