@@ -11,7 +11,7 @@
 
 .🌏 From Australia 🦘 Living in Sweden 🇸🇪
 
-.👷‍♂️ Currently building an Unsplash clone 
+.👷‍♂️ Currently building an Ecommerce for a fashion brand
 
 .🧭 Exploring Typescript 🦾
 
