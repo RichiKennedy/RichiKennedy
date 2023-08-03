@@ -5,7 +5,7 @@
 
                                                   ✨Frontend developer✨
 
-.💻 Frontend developer intern at Mobiento / Deloitte Digital
+.💻 Frontend developer 
 
 .📖 Frontend Development student from Hyper Island
 
