@@ -15,7 +15,7 @@
 
 .🧭 Exploring Typescript 🦾
 
-.👀 On the look-out for a junior frontend developer position 
+.👀 On the look-out for a frontend developer position 
 
 .My portfolio 👉 https://richardgkennedy.netlify.app/ 
 
